@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Khudobchenok Anton
-- 👀 I’m studing Java
-- 💞️ I want to get a job as soon as possible
 - 📫 You can contact me by mail antonkhudobchenok@gmail.com
